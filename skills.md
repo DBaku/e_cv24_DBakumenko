@@ -1,4 +1,4 @@
-# Lebenslauf
+# Skills
 
 ## Persönliche Daten
 
