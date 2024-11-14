@@ -29,10 +29,6 @@
 -   Arbeit mit relationalen und NoSQL-Datenbanken
 -   Entwicklung einer Rest-Api
 
--   Backend-Entwicklung mit Node.js und Express
--   Unterstützung des DevOps-Teams bei der Implementierung von CI/
-    CD-Pipelines
-
 ## Programmierkenntnisse
 
 -   **Sprachen:** Php, JavaScript, Python, Java
@@ -47,12 +43,19 @@
 **Beschreibung:** Entwicklung einer skalierbaren E-Commerce-Plattform  
 **Technologien:** React, Node.js, MongoDB  
 **Rolle:** Full-Stack Entwickler  
+**Erfolge:** Verbesserung der Ladezeiten um 30%, Optimierung GUI, Integration eines sicheren
+
+### Projekt: E-Commerce Website Php/laravel
+
+**Beschreibung:** Entwicklung einer skalierbaren E-Commerce-Plattform  
+**Technologien:** Php, Laravel, MySql  
+**Rolle:** Full-Stack Entwickler  
 **Erfolge:** Verbesserung der Ladezeiten um 30%, Optimierung GUI, Integration eines sicheren Zahlungssystems
 
 ### Projekt: Unternehmens-CRM
 
 **Beschreibung:** Entwicklung eines CRM-Systems zur Kundenverwaltung  
-**Technologien:** Angular, Spring Boot, MySQL  
+**Technologien:** , Spring Boot, MySQL  
 **Rolle:** Backend Entwickler  
 **Erfolge:** Implementierung eines effizienten Datenmanagements, Reduktion der Antwortzeiten um 20%
 
@@ -63,26 +66,25 @@
 **Fachbereich:** Informatik  
 **Zeitraum:** Oktober 2016 - September 2020
 
-## Zertifikate
-
--   **AWS Certified Solutions Architect** - Amazon Web Services - März 2022
--   **Certified Kubernetes Administrator (CKA)** - CNCF - Juli 2023
-
 ## Lernerfolge
 
 ### Weiterbildung bei Bergemann & Hoehne
 
-**Anbieter:** Bergemann & Hoehne  
+**Anbieter:** Bergemann & Hoehne Consulting Gmbh
 **Zeitraum:** November 2023 - heute  
 **Beschreibung:** Teilnahme an drei Modulen zu Frontend, Backend und Datenbanken, die Grundkenntnisse bis hin zu fortgeschrittenen Einblicken und Aufgaben zu verschiedenen Programmiersprachen und Frameworks abdecken.
 
-### Online-Kurs: Modern JavaScript
+### Online-Kurs: Autodikatisch Maschine-Learning Training
 
-**Anbieter:** Udemy  
-**Zeitraum:** März 2023 - Mai 2023  
-**Beschreibung:** Intensivkurs zu modernen JavaScript-Features und -Techniken, einschließlich ES6+, Asynchronität und Promises.
+**Anbieter:** Tensorflow
+**Zeitraum:** November 2024 - Dezember 2024  
+**Beschreibung:** Einführung in MS mittels 4-Teiligen Einsteiger Videokurs
+**Ziel:** Eigenständiges erlernen und Entwicklung einer Software die
+mittels Kamera imstande ist Schere, Stein, Papier mit dem Anwender zu spielen
 
 ## Sprachen
 
 -   **Deutsch:** Muttersprache
 -   **Englisch:** Fließend (C1)
+-   **Russisch:** Fließend (C1)
+-   **Spanisch:** Erweiterte Grundkenntnisse
